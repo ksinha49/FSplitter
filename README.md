@@ -18,6 +18,11 @@ Use the following command in Windows command prompt terminal to execte job:
 ```sh
 Filesplitter.Bat 
 ```
+Update the BAT file to use the File name pattern for data spilting and modification.
+To change an excel to CSV automatically using script the followinf command can be used:
+```sh
+XlsCsv <filename>
+```
 
 
 
