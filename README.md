@@ -7,6 +7,7 @@ A file managment tool allowing user to split large Excel files in equal number o
 # Requirements
 
   - Visual Basic
+  - MS Excel
   - Windows OS 
   
   
