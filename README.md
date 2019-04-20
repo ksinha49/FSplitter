@@ -1,6 +1,6 @@
 # FSplitter
 
-A file managment tool allowing user to split large Excel files in equal number of record files 
+A file management tool allowing user to split large Excel files in equal number of record files. Used this as an alternative to open large excel file data and then ask the system to process certain amount of data and update/add a new field based on certain data in the file. 
 
 
 
